@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class jsysvaradder_win_x64 {	
 	public static void main(String[] args) throws Exception {
-		System.out.println("JDK 버전을 입력하세요:");
+		System.out.println("JDK 버전을 입력하세요: ");
 		Scanner sc = new Scanner(System.in);
 		String version = sc.next();
 				
