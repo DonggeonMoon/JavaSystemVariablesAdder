@@ -1,7 +1,7 @@
 //이 프로그램은 관리자 권한으로 실행돼야 합니다. This program MUST be run as administrator.
 import java.util.Scanner;
 
-public class jsysvaradder_x64 {	
+public class jsysvaradder_win_x64 {	
 	public static void main(String[] args) throws Exception {
 		System.out.println("JDK 버전을 입력하세요:");
 		Scanner sc = new Scanner(System.in);
